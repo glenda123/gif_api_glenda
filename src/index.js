@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import GifExpertCopiaApp from './GifExpertCopiaApp';
+import GifExpertApp from './GifExpertApp';
 import './index.css';
 
 
 
 ReactDOM.render(
   
-    <GifExpertCopiaApp/>,
+    <GifExpertApp/>,
   document.getElementById('root')
 );
 
