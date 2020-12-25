@@ -29,6 +29,7 @@ input{
   margin-bottom: 10px;
   margin-right: 10px;
   overflow: hidden;
+  width:31%;
 }
 
 .card p {
@@ -38,5 +39,17 @@ input{
 }
 
 .card img {
+  
   max-height: 170px;
+  position:relative;
+  padding-left:calc((31%- width)/2)
+
+
 }
+
+@media (max-width: 575.98px) { 
+  .card {
+    width:90%;
+  }
+
+ }
