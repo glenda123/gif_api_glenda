@@ -65,7 +65,7 @@ input{
     height: 7vh;
   }
   .card-grid{
-    padding-right: 6px;
+    margin-right: 6px;
   }
   .card {
     width:94%;
