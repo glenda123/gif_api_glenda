@@ -52,7 +52,7 @@ input{
 
   body{
     padding-left:3px;
-    margin-left:2px;
+    margin-left:4px;
   }
   .title{
     font-size:26px;
@@ -64,14 +64,14 @@ input{
     height: 7vh;
   }
   .card-grid{
-    padding-right: 9.5px;
+    padding-right: 8.5px;
   }
   .card {
-    width:94%;
+    width:95%;
   }
 
   img{
     width:100%;
-    height: 75%;
+    height: 70%;
   }
  }
