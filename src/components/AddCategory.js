@@ -24,6 +24,7 @@ const AddCategory = ({setCategories}) => {
                 <input type="text"
                     value={inputValue}
                     onChange={handleInputChange}
+                    placeholder='Ingresa el nombre del giff aquí'
 
                 />
             
