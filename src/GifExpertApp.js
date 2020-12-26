@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import AddCategory from "./components/AddCategory"
 import GifGrid from './components/GifGrid'
 
-const GifExpertCopiaApp = () => {
+const GifExpertApp = () => {
 
     const [categories, setCategories] = useState(["Inuyasha"])
     return (
@@ -26,4 +26,4 @@ const GifExpertCopiaApp = () => {
     )
 }
 
-export default GifExpertCopiaApp
+export default GifExpertApp
