@@ -49,6 +49,17 @@ input{
 }
 
 @media (max-width: 575.98px) { 
+
+  body{
+    padding:3px;
+  }
+  .title{
+    font-size:20px;
+  }
+
+  input{
+    font-size: 0.8rem;
+  }
   .card {
     width:100%;
   }

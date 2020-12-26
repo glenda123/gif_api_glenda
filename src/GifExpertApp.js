@@ -7,7 +7,7 @@ const GifExpertCopiaApp = () => {
     const [categories, setCategories] = useState(["Inuyasha"])
     return (
         <>
-            <h1>Gif Expert App</h1>
+            <h1 className='title'>Gif Expert App</h1>
             <AddCategory setCategories= {setCategories} />
 
             <ol>
