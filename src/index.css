@@ -51,7 +51,7 @@ input{
 @media (max-width: 575.98px) { 
 
   body{
-    padding-left:3px;
+    padding-left:5px;
     margin-left:4px;
   }
   .title{
@@ -64,10 +64,11 @@ input{
     height: 7vh;
   }
   .card-grid{
-    padding-right: 8.5px;
+    padding-right: 5px;
   }
   .card {
     width:95%;
+    height: 90%;
   }
 
   img{
